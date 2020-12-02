@@ -1,2 +1,2 @@
 # albert-sixtyfive
-Artificial Intelligence Appliance based on Scienctifical Document and Information Processing
+Artificial Intelligence Appliance based on Scienctific Document and Information Processing
